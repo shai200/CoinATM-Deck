@@ -150,21 +150,26 @@
 ### *How we’ll take CoinATM to the world.*
 
 **Phase 1 — Local Domination (0–10K Users)**  
-- YouTube + TikTok content by **Shai Lev**  
-- Educational funnels and webinars  
-- Local events and workshops on Bitcoin savings  
-- Early adopter community: *CoinATM Freedom Tribe*
+- YouTube + TikTok content by **Shai Lev**.  
+- Educational funnels and webinars introducing recurring Bitcoin savings.  
+- Local events and workshops on Bitcoin savings.  
+- Early adopter community: *CoinATM Freedom Tribe.*
 
 **Phase 2 — Global Expansion (10K–100K Users)**  
-- Influencer & affiliate partnerships  
-- Multi-language rollout (EN, ES, FR, HE)  
-- “Bitcoin Habits” podcast and PR campaigns  
+- Influencer & affiliate partnerships with Bitcoin educators and financial mentors.  
+- Multi-language rollout (EN, ES, FR, HE).  
+- “Bitcoin Habits” podcast and PR campaigns.  
+- **Fostering global online communities and educational programs:**  
+  - Courses on **Udemy**, **Skool**, and **Discord** communities built around *DCA discipline and Bitcoin savings.*  
+  - Encourage participants to publicly share their savings journey — “I DCA every month.”  
+  - Build a viral *movement of savers* — turning Bitcoin saving into a badge of honor and identity.
 
 **Phase 3 — Mainstream Growth (100K–1M Users)**  
-- Partnerships with fintech apps and banks  
-- Paid ads, PR, and global ambassador programs  
+- Partnerships with fintech apps and banks.  
+- Paid ad campaigns, PR outreach, and global ambassador programs.  
+- Gamified achievements for consistent savers and advocates (*DCA Streaks*, *Bitcoin Saver Levels*).  
 
-> *Education → Trust → Conversion → Retention*
+> *Education → Trust → Community → Conversion → Retention.*
 
 ---
 
@@ -181,6 +186,26 @@
 | Reserves | 5% | Buffer for opportunities |
 
 > We don’t burn cash — we build trust and momentum.
+
+---
+
+## 👥 Team
+### *Founder-led. Focused. Visionary.*
+
+**👤 Shai Lev — Founder & CEO**  
+- Full-stack developer, crypto early adopter, and educator since 2017.  
+- Creator of the original recurring Bitcoin savings model validated with real users.  
+- Experienced in product development, DevOps, and digital education.  
+- Passionate about financial freedom and the decentralization of money.
+
+**🧭 Strategic Growth Plan:**  
+- Build a **Board of Advisors** composed of leaders in:  
+  - Fintech and payments.  
+  - Bitcoin education and adoption.  
+  - Compliance and regulatory frameworks.  
+  - SaaS growth and venture scaling.
+
+> *Solo founder today — building a strategic advisory circle for tomorrow.*
 
 ---
 
