@@ -234,6 +234,38 @@
 
 ---
 
+
+---
+
+## 🛣️ Roadmap
+### *From savings platform to full-scale financial institution.*
+
+**Phase 1 — Foundation (2025–2026)**  
+- Launch CoinATM app and recurring Bitcoin savings platform.  
+- Expand educational ecosystem: CoinATM Learn, CoinATM Club.  
+- Build partnerships with payment processors and liquidity providers.  
+- Establish compliance infrastructure (KYC/AML, money transmission).  
+
+**Phase 2 — Institutionalization (2026–2028)**  
+- **Incorporate as a licensed digital Bank in the United States.**  
+  - Obtain Money Services Business (MSB) and state banking licenses.  
+  - Offer insured custody and Bitcoin savings accounts.  
+  - Enable fiat on/off ramps directly via CoinATM’s internal rails.  
+
+**Phase 3 — Market Expansion (2028–2030)**  
+- **Evolve into a regulated cryptocurrency exchange.**  
+  - List major digital assets alongside Bitcoin.  
+  - Provide instant swaps, recurring buys, and merchant tools.  
+  - Integrate with other financial institutions for seamless transfers.  
+
+**Phase 4 — Global Network (2030+)**  
+- Extend licenses to Europe, LATAM, and Asia-Pacific.  
+- Launch CoinATM-branded debit cards and business accounts.  
+- Become the world’s most trusted platform for recurring digital savings.  
+
+> *From Bitcoin savings → to a licensed exchange → to the next-generation digital bank.*
+
+
 ## 💵 Funding Round
 ### *Raising $15 Million for 15% Equity — Valuation: $100 Million*
 
