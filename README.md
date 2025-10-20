@@ -115,16 +115,20 @@
 
 ---
 
-## ❌ Why Not to Invest in Us
-### *Because we’re not for everyone.*
+## 🧾 Proof of Concept (2017–2025)
+### *A proven model — tested and validated in the real world.*
 
-1. **Not a “get-rich-quick” play** — we’re building long-term financial infrastructure.  
-2. **Regulated industry** — takes patience and precision.  
-3. **Purpose-driven mission** — not just profit, but empowerment.  
-4. **Education-first model** — slower ramp, stronger loyalty.  
-5. **We want aligned partners** — not just investors chasing hype.
+- Between **2017 and 2025**, CoinATM operated in stealth mode,  
+  quietly building and testing its core concept with real users.  
+- **~20 early clients** joined personal mentorship and savings programs led by **Shai Lev**.  
+- These clients collectively **accumulated significant Bitcoin holdings**,  
+  achieving meaningful financial growth through disciplined recurring savings.  
+- The experience validated our **recurring-purchase engine (DCA model)** and confirmed:  
+  - People love simplicity.  
+  - Education builds trust.  
+  - Recurring savings create long-term retention.  
 
-> *We’re not asking for funding — we’re inviting partnership.*
+> *Our early adopters didn’t just buy Bitcoin — they built freedom.*
 
 ---
 
@@ -183,25 +187,25 @@
 ## 🌌 Future Products
 ### *Beyond savings — building the Bitcoin economy.*
 
-1. **Stealth Pay** – Merchant crypto payment gateway.  
-2. **Stealth Vault** – Advanced Bitcoin savings wallet.  
-3. **Stealth Learn** – Financial education platform.  
-4. **Stealth Club** – Global investor community.  
-5. **Stealth Index** – Automated Bitcoin-based investment index.  
+1. **CoinATM Pay** – Merchant crypto payment gateway.  
+2. **CoinATM Vault** – Advanced Bitcoin savings wallet.  
+3. **CoinATM Learn** – Financial education platform.  
+4. **CoinATM Club** – Global investor community.  
+5. **CoinATM Index** – Automated Bitcoin-based investment index.  
 
-> **CoinATM → Stealth Ecosystem:** From saving Bitcoin to living with Bitcoin.
+> **CoinATM Ecosystem:** From saving Bitcoin to living with Bitcoin.
 
 ---
 
-## ☁️ Stealth Cloud Ecosystem
+## ☁️ CoinATM Cloud Ecosystem
 ### *Infrastructure for the Bitcoin age.*
 
-- **Stealth Cloud Dashboard** – personal savings cloud.  
-- **Mentor Cloud** – for coaches and guides.  
-- **Business Cloud** – merchant processing.  
-- **Stealth API** – fintech integrations.  
+- **CoinATM Cloud Dashboard** – personal savings cloud.  
+- **CoinATM Mentor Cloud** – for coaches and guides.  
+- **CoinATM Business Cloud** – merchant processing.  
+- **CoinATM Cloud API** – fintech integrations.  
 
-> **Stealth ≠ app. Stealth = global Bitcoin infrastructure.**
+> **CoinATM ≠ app. CoinATM = global Bitcoin infrastructure.**
 
 ---
 
