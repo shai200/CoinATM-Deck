@@ -205,7 +205,7 @@
 **Title:** Launch Geography
 **Headline:** Start where trust and compliance discipline matter most, then expand.
 
-* Launch in United States and European Union first.
+* Launch in the United States and European Union first.
 * Expand markets corridor-by-corridor as rails and compliance mature.
 * Orchestration layer makes expansion additive, not a rewrite.
 
