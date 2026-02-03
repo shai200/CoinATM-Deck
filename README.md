@@ -176,14 +176,28 @@
 ## 💰 Use of Funds
 ### *Building the foundation for global Bitcoin adoption.*
 
-| Category | % | Purpose |
-|-----------|---|----------|
-| Product Development | 30% | Platform build, security, UX |
-| Marketing & Brand | 25% | YouTube, events, campaigns |
-| Education & Mentorship | 15% | Courses, training, community |
-| Team & Operations | 15% | Hiring core dev + growth team |
-| Legal & Compliance | 10% | Global KYC/AML, licensing |
-| Reserves | 5% | Buffer for opportunities |
+**Development (Product + Security + Payments Stack): $6.0M**
+- Core app + infra + security: $2.8M
+- Payments orchestration + recurring + ledger: $2.2M
+- Audits/pen-tests/observability: $1.0M
+
+**Marketing + Growth: $3.5M**
+- Content engine + community: $0.8M
+- Paid growth tests + creative: $2.0M
+- Affiliates/partnerships/PR/events: $0.7M
+
+**Compliance + Legal: $3.0M**
+- KYC/AML vendors + monitoring: $1.2M
+- Compliance team + program build: $1.0M
+- Legal + insurance + filings: $0.8M
+
+**Operations: $1.2M**
+- Support, finance ops, tooling, admin
+
+**Buffer/Reserves: $1.3M**
+- Provider reserves + unexpected compliance/ops needs
+
+**Total: $15.0M**
 
 > We don’t burn cash — we build trust and momentum.
 
