@@ -203,6 +203,185 @@
 
 ---
 
+## 📦 Incremental Cost to Build the Stripe-Independent Payments Stack (Add-On)
+
+To support **recurring buys**, **multiple rails**, and **provider redundancy**, we add the following incremental investment:
+
+**1) Development: Payments Orchestration + Billing + Ledger**  
+**Estimated: $1.5M – $4.0M**  
+What's inside:
+
+* Provider-agnostic payment abstraction (create charge, refund, webhook handling, disputes)
+* Recurring engine (schedules, retries, idempotency, proration rules if we offer plans)
+* Internal ledger (customer balances, fees, FX spreads, reconciliation)
+* Reconciliation tooling (match provider statements → ledger → accounting)
+* Risk controls (velocity limits, device fingerprint hooks, fraud rules)
+* Webhook reliability (queueing, replay, audit logs, exactly-once-ish processing)
+
+**Why this costs real money:** this isn't "code a checkout page." It's building the boring heart that keeps beating at 3 a.m.
+
+---
+
+## ⚖️ Compliance & Legal Costs (Payments + Crypto = Extra Gravity)
+
+**2) Compliance & Legal**  
+**Estimated: $0.8M – $3.0M**  
+What's inside:
+
+* Enhanced KYC/AML program for recurring flows and monitoring (vendor + policies + staffing)
+* Sanctions screening + transaction monitoring
+* Chargeback/consumer dispute processes
+* Legal reviews for "who touches funds when" (custodial vs non-custodial), plus corridor-specific requirements
+
+**Key point:** Payments + crypto multiplies compliance workload. This is not optional spend.
+
+---
+
+## 🏢 Operational Costs (Support + Finance + Risk)
+
+**3) Operations (support + finance + risk)**  
+**Estimated: $0.4M – $1.2M**  
+What's inside:
+
+* Disputes/chargebacks handling
+* Refund workflows
+* Support tooling + agents trained for money movement ("where is my money" tickets are emotionally intense)
+* Monthly close + accounting integration
+
+---
+
+## 💼 Vendor / Processing Reserves (Not Burn, But Required Headroom)
+
+**4) Vendor / Processing Reserves**  
+**Estimated: $0.3M – $1.0M** *(varies by volumes)*  
+What's inside:
+
+* Rolling reserves / minimum balances some providers require
+* Settlement delays buffers
+* Fraud loss allowances in early days
+
+**Key point:** This isn't operating burn. It's ballast so the ship doesn't tip in rough seas.
+
+---
+
+## 💵 Updated Use of Funds Example (Still Within $15M)
+
+A clean $15M layout that explicitly includes payments independence:
+
+### Development (Product + Security + Payments stack): **$6.0M**
+
+* Core app + infra + security: **$2.8M**
+* Payments orchestration + billing + ledger: **$2.2M**
+* Reliability/observability/audits: **$1.0M**
+
+### Marketing + Growth: **$3.5M**
+
+* Content engine + community: **$0.8M**
+* Paid growth tests + creative: **$2.0M**
+* Affiliates/partnerships/PR/events: **$0.7M**
+
+### Compliance + Legal: **$3.0M**
+
+* KYC/AML vendors + monitoring: **$1.2M**
+* Compliance team + program buildout: **$1.0M**
+* Legal, filings, insurance: **$0.8M**
+
+### Operations: **$1.2M**
+
+* Support, finance ops, tooling, admin
+
+### Buffer/Reserves: **$1.3M**
+
+* Cash cushion + provider reserves + "unknown unknowns"
+
+**Total: $15.0M**
+
+---
+
+## 🚨 When $15M Becomes "Not Enough" (Fast)
+
+$15M becomes not enough if Phase 1 includes:
+
+* Pursuing heavy licensing early (many jurisdictions at once)
+* Building proprietary rails instead of partnering
+* Launching globally across many corridors immediately
+
+**Result:** Compliance + ops + reserves balloon, and the round size must increase.
+
+---
+
+## 🌟 Long-Term Vision | Become a Full Payments Company
+
+We intend to evolve beyond a savings app into a full-stack payments platform:
+
+* Accept payments in **as many ways as possible** (cards, bank rails, local methods, stablecoins, crypto)
+* Provide businesses a unified **payment gateway** that blends fiat + crypto seamlessly
+* Become a **credit card processor** over time, controlling fees, routing, and risk decisions
+
+**CoinATM = money movement infrastructure, not just an app.**
+
+---
+
+## 🗺️ Roadmap | From Orchestration to Payment Gateway to Processor
+
+**Phase 1: Orchestration + Ledger (Now)**
+
+* Build the brain: routing + recurring engine + internal ledger
+* Use best-in-class regulated partners for rails
+* Win on reliability, UX, and trust
+
+**Phase 2: Merchant Gateway (Next)**
+
+* Launch "CoinATM Pay" as a merchant gateway:
+
+  * Single integration for card + bank transfer + crypto
+  * Smart routing (cost, approval rate, geography, fraud signals)
+  * Unified settlements + reporting dashboard
+
+**Phase 3: Processor Path (Later)**
+
+* Move from gateway to processor capabilities:
+
+  * Underwriting + risk controls + fraud tooling at scale
+  * Deep chargeback operations + dispute automation
+  * PCI-grade security posture and audits
+  * Direct commercial relationships with acquiring partners and payment networks
+
+**Key point:** We become a processor step-by-step, after we've proven volume + risk mastery.
+
+---
+
+## 🏆 Why This Wins (Strategic Moat)
+
+Building this stack creates compounding advantages:
+
+* **Provider independence:** no single vendor can freeze growth
+* **Higher margins over time:** routing + optimization reduces fees
+* **Global expansion:** add rails per region without rewriting product
+* **Merchant distribution:** businesses become an acquisition channel
+* **Trust flywheel:** clean ops + compliance = lower risk = better approvals = lower costs
+
+---
+
+## 🏪 What We Enable for Businesses (CoinATM Pay)
+
+**One gateway, many payment methods:**
+
+* Card payments (where permitted)
+* Bank transfers and local rails (region-specific)
+* Crypto and stablecoins (where useful)
+* Automatic conversion options (fiat ↔ crypto, based on rules)
+
+**Merchant value:**
+
+* Higher checkout conversion via more payment choices
+* Lower fees through smart routing
+* Faster settlement options
+* Unified reporting and reconciliation
+* Future: loyalty + rewards tied to Bitcoin savings
+
+---
+
 ## 👥 Team
 ### *Founder-led. Focused. Visionary.*
 
